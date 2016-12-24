@@ -1,0 +1,12 @@
+[
+  {"id":1,"first_name":"Steven","last_name":"Dunn","email":"sdunn0@whitehouse.gov","gender":"Male"},
+  {"id":2,"first_name":"Kathy","last_name":"Walker","email":"kwalker1@histats.com","gender":"Female"},
+  {"id":3,"first_name":"Lillian","last_name":"Cole","email":"lcole2@china.com.cn","gender":"Female"},
+  {"id":4,"first_name":"Bruce","last_name":"Burns","email":"bburns3@answers.com","gender":"Male"},
+  {"id":5,"first_name":"Craig","last_name":"Olson","email":"colson4@pcworld.com","gender":"Male"},
+  {"id":6,"first_name":"Beverly","last_name":"Gomez","email":"bgomez5@loc.gov","gender":"Female"},
+  {"id":7,"first_name":"Chris","last_name":"Hughes","email":"chughes6@yellowbook.com","gender":"Male"},
+  {"id":8,"first_name":"Ernest","last_name":"Scott","email":"escott7@japanpost.jp","gender":"Male"},
+  {"id":9,"first_name":"Heather","last_name":"Banks","email":"hbanks8@e-recht24.de","gender":"Female"},
+  {"id":10,"first_name":"Matthew","last_name":"Freeman","email":"mfreeman9@blogger.com","gender":"Male"}
+]
