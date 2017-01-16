@@ -1,14 +1,14 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import VueResource from 'vue-resource'
-
+// My component
 import App from './App.vue'
 import MyApp from './MyApp.vue'
 import Users from './Users.vue'
-
+// Middleware
 Vue.use(VueResource)
 Vue.use(VueRouter)
-
+// router
 const router = new VueRouter({
   mode: 'history',
   base: __dirname,
@@ -18,7 +18,7 @@ const router = new VueRouter({
     { path: '/users', component: Users},
   ],
 }) 
-
+// new vue instance that mount to #app
 new Vue({
   el: '#app',
   router,
@@ -32,5 +32,4 @@ new Vue({
       <router-view></router-view>
     </div>
   `,
-
 })
